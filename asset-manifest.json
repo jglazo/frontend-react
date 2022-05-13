@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/frontend-react/static/css/main.a240c550.css",
+    "main.js": "/frontend-react/static/js/main.47a257f6.js",
+    "static/js/787.cda612ba.chunk.js": "/frontend-react/static/js/787.cda612ba.chunk.js",
+    "static/media/login-bg-label.png": "/frontend-react/static/media/login-bg-label.5546a0aac33fc59de8ca.png",
+    "static/media/full-logo.png": "/frontend-react/static/media/full-logo.a58bfee075f835c4d242.png",
+    "static/media/calling-icon.svg": "/frontend-react/static/media/calling-icon.f153069d84349d17ea89d62462622c24.svg",
+    "static/media/activity-icon.svg": "/frontend-react/static/media/activity-icon.58f713e4fea8e8541da70727697369cb.svg",
+    "index.html": "/frontend-react/index.html",
+    "main.a240c550.css.map": "/frontend-react/static/css/main.a240c550.css.map",
+    "main.47a257f6.js.map": "/frontend-react/static/js/main.47a257f6.js.map",
+    "787.cda612ba.chunk.js.map": "/frontend-react/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.47a257f6.js"
+  ]
+}
