@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend-react/static/css/main.a240c550.css",
-    "main.js": "/frontend-react/static/js/main.f2963e44.js",
+    "main.js": "/frontend-react/static/js/main.cb2173f3.js",
     "static/js/787.cda612ba.chunk.js": "/frontend-react/static/js/787.cda612ba.chunk.js",
     "static/media/login-bg-label.png": "/frontend-react/static/media/login-bg-label.5546a0aac33fc59de8ca.png",
     "static/media/landing-banner-background.png": "/frontend-react/static/media/landing-banner-background.c65265126bba51050ccd.png",
@@ -53,11 +53,11 @@
     "static/media/activeDivider.svg": "/frontend-react/static/media/activeDivider.9d2607e3f71db8e4485ae18497969f15.svg",
     "static/media/vertical-divider.svg": "/frontend-react/static/media/vertical-divider.0d7083e446092f35fe05056876f24a73.svg",
     "main.a240c550.css.map": "/frontend-react/static/css/main.a240c550.css.map",
-    "main.f2963e44.js.map": "/frontend-react/static/js/main.f2963e44.js.map",
+    "main.cb2173f3.js.map": "/frontend-react/static/js/main.cb2173f3.js.map",
     "787.cda612ba.chunk.js.map": "/frontend-react/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a240c550.css",
-    "static/js/main.f2963e44.js"
+    "static/js/main.cb2173f3.js"
   ]
 }
